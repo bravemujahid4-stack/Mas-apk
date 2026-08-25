@@ -1,0 +1,6 @@
+{
+  "name": "MAS Accounts",
+  "description": "Professional mobile-first double-entry accounting application with multi-company architecture, FIFO inventory, sales, purchases, cash & bank, ledgers, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

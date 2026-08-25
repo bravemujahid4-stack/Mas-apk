@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+
+    <!-- Hexagonal Crest Background -->
+    <path
+        android:fillColor="#0B1B3D"
+        android:pathData="M48,4 L86,24 L86,72 L48,92 L10,72 L10,24 Z" />
+
+    <!-- Gold Outer Border -->
+    <path
+        android:strokeColor="#E5A93C"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M48,4 L86,24 L86,72 L48,92 L10,72 L10,24 Z" />
+
+    <!-- Gold Inner Accent Line -->
+    <path
+        android:strokeColor="#C89126"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M48,9 L81,26.5 L81,69.5 L48,87 L15,69.5 L15,26.5 Z" />
+
+    <!-- Top Crown / Accounting Scale Bar -->
+    <path
+        android:fillColor="#F6C561"
+        android:pathData="M30,22 L66,22 L64,25 L32,25 Z" />
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M46,18 L50,18 L50,23 L46,23 Z" />
+
+    <!-- 'M' Vector Glyph -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,64 L22,34 L28,34 L36,52 L44,34 L50,34 L50,64 L44,64 L44,43 L38,56 L34,56 L28,43 L28,64 Z" />
+
+    <!-- 'A' Vector Glyph -->
+    <path
+        android:fillColor="#F6C561"
+        android:pathData="M46,64 L56,34 L62,34 L72,64 L66,64 L64,57 L54,57 L52,64 Z M56,51 L62,51 L59,41 Z" />
+
+    <!-- 'S' Vector Glyph -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,60 C70,63 74,65 78,65 C83,65 86,63 86,59 C86,55 83,53 76,51 C70,49 65,46 65,41 C65,36 69,33 76,33 C81,33 85,35 87,38 L83,42 C81,40 79,38 76,38 C72,38 70,40 70,42 C70,44 73,46 79,48 C86,50 91,53 91,59 C91,65 86,69 78,69 C73,69 68,66 65,62 Z" />
+
+    <!-- Subtitle Bar / Ribbon Underline -->
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M26,73 L70,73 L68,76 L28,76 Z" />
+</vector>
